@@ -1,0 +1,5 @@
+pytorch-lightning
+efficientnet_pytorch
+opencv-python
+albumentations
+pandas
